@@ -1,0 +1,9 @@
+News Data 
+-> Data pre processing 
+-> Train Test Split 
+-> Logistic Regression Model
+
+
+New Data
+-> Trained Logistic Model
+-> Real or Fake 
