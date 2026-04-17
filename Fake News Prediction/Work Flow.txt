@@ -7,3 +7,19 @@ News Data
 New Data
 -> Trained Logistic Model
 -> Real or Fake 
+
+
+Logistic Regression 
+
+Sigmoid function
+Y= 1/(1+e^-z)
+
+Z=Ww.X+b
+
+x=input features
+Y= Prediction probability 
+w= weights 
+b=biases
+
+
+S -curve , 
